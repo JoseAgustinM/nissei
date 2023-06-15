@@ -16,19 +16,10 @@ position: absolute;
     height: 40px;
     width: 500px;
     border: solid 1px;
-   margin-inline: 10%;
-   margin-top: 3%;
-   position: absolute;
 }
 #buscador{
-    text-align: center;
     height: 20px;
     width: 200px;
-   margin-inline: 45%;
-   position: absolute;
-   margin-top: 3%;
-   width: 60px;
-   height: 42px;
    border: solid orange;
 }
 button{
