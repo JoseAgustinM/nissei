@@ -1,5 +1,5 @@
 body{
-    background-color: green;
+    background-color: purple;
 }
 #pag{
 text-align: initial;
@@ -16,11 +16,13 @@ position: absolute;
     height: 40px;
     width: 500px;
     border: solid 1px;
+    position: absolute;
 }
 #buscador{
     height: 20px;
     width: 200px;
    border: solid orange;
+    position: absolute;
 }
 button{
     background-color: orange;
