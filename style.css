@@ -60,14 +60,14 @@ button{
     position: absolute;
     margin-inline: 20%;
     margin-top: 15%;
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
 }
 #marron{
     position: absolute;
     text-align: center;
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     margin-top: 15%;
     margin-inline: 60%;
 }
